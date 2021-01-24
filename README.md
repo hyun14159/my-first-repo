@@ -9,4 +9,5 @@ And git is awesome VCS, I think!
 
 ## 여기에 쓰는 샵 두개는 무엇인고 어떻게 나오나 볼까 
 
+### 세게는 오똔데
 
